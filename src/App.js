@@ -3,7 +3,7 @@ import './App.css';
 
 function Card (props){
   return(
-    <div className="col d-flex flex-column align-items-center justify-content-center m-5">
+    <div className="col d-flex flex-column align-items-center justify-content-center my-5">
         <div className="icon-square text-bg-light d-inline-flex align-items-center justify-content-center fs-4 flex-shrink-0 me-3">
          
         </div>
