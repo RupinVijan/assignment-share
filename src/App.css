@@ -11,3 +11,8 @@
   text-align: center;
   margin-right:1.5rem ;
 }
+@media only screen and (max-width: 600px) {
+  .m-5{
+    margin:33px auto;
+  }
+}
